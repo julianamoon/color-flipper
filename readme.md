@@ -1,6 +1,6 @@
 # Color Flipper
 
-Fun app to generate random colors in html, hex code and rgb.
+Fun app to generate random colors in html, hex code and rgb.<br/>
 [Live Preview](https://color-flipflop.netlify.app/index.html)
 
 ![screenshot](./assets/color-flipper-app.png)
@@ -11,5 +11,5 @@ As a designer, I wanted a cool, easy, minimalistic app to find random colors to 
 
 ## Made With
 
-HTML5, CSS3 & Javascript.
+HTML5, CSS3 & Javascript.<br/>
 Youtube video (https://youtu.be/3PHXvlpOkf4)
